@@ -1,0 +1,68 @@
+12:34:49.685 [main] INFO  testCases.tc001_accountRegistrationTest -<----Providing customer info----->
+12:34:50.899 [main] INFO  testCases.tc001_accountRegistrationTest -<----Validating expected message----->
+12:34:50.931 [main] INFO  testCases.tc001_accountRegistrationTest -<----Testing is Finished------>
+12:34:58.114 [main] INFO  testCases.TC002_LoginTest -***** Starting TC_002 Login Test*****
+12:34:59.287 [main] INFO  testCases.TC002_LoginTest -***** Finished TC_002 Login Test******** 
+12:35:10.728 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workplaces\Automation\opencaer\grouping.xml
+
+12:36:40.587 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workplaces\Automation\opencaer\grouping.xml
+
+12:38:39.945 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workplaces\Automation\opencaer\grouping.xml
+
+12:41:22.212 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workplaces\Automation\opencaer\grouping.xml
+
+12:41:29.593 [main] INFO  testCases.TC002_LoginTest -***** Starting TC_002 Login Test*****
+12:41:30.837 [main] INFO  testCases.TC002_LoginTest -***** Finished TC_002 Login Test******** 
+12:41:39.133 [main] INFO  testCases.TC003_loginDDT -***** TEsting TC003_LoginDBT******
+12:41:40.755 [main] INFO  testCases.TC003_loginDDT ----Valid username and Valid PASS
+12:41:40.760 [main] INFO  testCases.TC003_loginDDT -***** TEsting TC003_LoginDBT******
+12:41:51.894 [main] INFO  testCases.TC003_loginDDT -***** TEsting TC003_LoginDBT******
+12:42:03.209 [main] INFO  testCases.TC003_loginDDT -***** TEsting TC003_LoginDBT******
+12:42:04.788 [main] INFO  testCases.TC003_loginDDT ----Valid username and Valid PASS
+12:42:04.791 [main] INFO  testCases.TC003_loginDDT -***** TEsting TC003_LoginDBT******
+12:42:15.697 [main] INFO  testCases.TC003_loginDDT -***** TEsting TC003_LoginDBT******
+12:42:26.789 [main] INFO  testCases.TC003_loginDDT -***** TEsting TC003_LoginDBT******
+12:43:06.318 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workplaces\Automation\opencaer\grouping.xml
+
+12:43:17.017 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workplaces\Automation\opencaer\grouping.xml
+
+12:43:28.338 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workplaces\Automation\opencaer\grouping.xml
+
+14:41:55.074 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workplaces\Automation\opencaer\grouping.xml
+
+14:42:08.986 [main] INFO  testCases.tc001_accountRegistrationTest -<----Starting Test tc001_accountRegistrationTest----->
+14:42:09.430 [main] INFO  testCases.tc001_accountRegistrationTest -<----Clicked on My Account Link----->
+14:42:10.321 [main] INFO  testCases.tc001_accountRegistrationTest -<----Clicked on My Register Link----->
+14:42:10.329 [main] INFO  testCases.tc001_accountRegistrationTest -<----Providing customer info----->
+14:42:13.443 [main] INFO  testCases.tc001_accountRegistrationTest -<----Validating expected message----->
+14:42:13.584 [main] INFO  testCases.tc001_accountRegistrationTest -<----Testing is Finished------>
+14:42:26.262 [main] INFO  testCases.TC002_LoginTest -***** Starting TC_002 Login Test*****
+14:42:28.866 [main] INFO  testCases.TC002_LoginTest -***** Finished TC_002 Login Test******** 
+14:47:07.962 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workplaces\Automation\opencaer\grouping.xml
+
+14:47:27.001 [main] INFO  testCases.tc001_accountRegistrationTest -<----Starting Test tc001_accountRegistrationTest----->
+14:47:28.038 [main] INFO  testCases.tc001_accountRegistrationTest -<----Clicked on My Account Link----->
+14:47:29.554 [main] INFO  testCases.tc001_accountRegistrationTest -<----Clicked on My Register Link----->
+14:47:29.562 [main] INFO  testCases.tc001_accountRegistrationTest -<----Providing customer info----->
+14:47:32.764 [main] INFO  testCases.tc001_accountRegistrationTest -<----Validating expected message----->
+14:47:32.882 [main] INFO  testCases.tc001_accountRegistrationTest -<----Testing is Finished------>
+14:47:47.158 [main] INFO  testCases.TC002_LoginTest -***** Starting TC_002 Login Test*****
+14:47:49.459 [main] INFO  testCases.TC002_LoginTest -***** Finished TC_002 Login Test******** 
+14:51:03.107 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Workplaces\Automation\opencaer\grouping.xml
+
+14:51:16.087 [main] INFO  testCases.tc001_accountRegistrationTest -<----Starting Test tc001_accountRegistrationTest----->
+14:51:16.358 [main] INFO  testCases.tc001_accountRegistrationTest -<----Clicked on My Account Link----->
+14:51:17.302 [main] INFO  testCases.tc001_accountRegistrationTest -<----Clicked on My Register Link----->
+14:51:17.310 [main] INFO  testCases.tc001_accountRegistrationTest -<----Providing customer info----->
+14:51:20.469 [main] INFO  testCases.tc001_accountRegistrationTest -<----Validating expected message----->
+14:51:20.625 [main] INFO  testCases.tc001_accountRegistrationTest -<----Testing is Finished------>
